@@ -54,7 +54,7 @@ The project aims to make sales data easier to understand and help monitor busine
 
 ##  Author
 
-**Fathima sinfa**  
+**Fathima sinfa vp**  
 Data Analyst Trainee | Febno Technologies
 
 ---
